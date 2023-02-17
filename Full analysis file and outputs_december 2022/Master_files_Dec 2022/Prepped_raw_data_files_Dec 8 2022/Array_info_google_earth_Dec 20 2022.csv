@@ -1,0 +1,134 @@
+﻿Station.name,Latitude,Longitude,farm_name,Type,Array,Section
+Site A,44.96448,-67.01331,NA,Release,A,
+AZFP-01,44.99335,-67.00807,NA,Hydrophone,E,Passamaquoddy Bay
+BLP-I-01,45.06957,-66.9219,NA,Hydrophone,O,Big L'etete Passage
+BLP-I-03,45.06086,-66.92635,NA,Hydrophone,O,Big L'etete Passage
+BLP-I-04,45.05676,-66.92849,NA,Hydrophone,O,Big L'etete Passage
+BR-01,45.15255,-66.98,NA,Hydrophone,L,Bocabec River
+BR-01B,45.15236,-66.98066,NA,Hydrophone,L,Bocabec River
+BR-02,45.1629,-66.98383,NA,Hydrophone,L,Bocabec River
+CH-01,45.12102,-67.05168,NA,Hydrophone,J,Passamaquoddy Bay
+CH-02,45.09324,-67.03506,NA,Hydrophone,I,Passamaquoddy Bay
+CH-03,45.08833,-67.03986,NA,Hydrophone,I,Passamaquoddy Bay
+DI-01,45.02724,-67.00077,NA,Hydrophone,F,Passamaquoddy Bay
+DI-02,45.02367,-66.9971,NA,Hydrophone,F,Passamaquoddy Bay
+DI-03,45.01974,-66.99126,NA,Hydrophone,F,Passamaquoddy Bay
+DI-04,45.01635,-66.98602,NA,Hydrophone,F,Passamaquoddy Bay
+DP-I-01,45.02122,-66.9629,NA,Hydrophone,AAA,Doyle's Passage
+DR-01,45.15447,-66.95438,NA,Hydrophone,M,Digdeguash River
+DR-02,45.1516,-66.96471,NA,Hydrophone,M,Digdeguash River
+DR-03,45.18426,-66.95972,NA,Hydrophone,M1,Digdeguash River
+DR-03B,45.18399,-66.95982,NA,Hydrophone,M1,Digdeguash River
+DS-01,45.19155,-67.25869,NA,Hydrophone,G5,Saint Croix River
+FI-01B,45.03666,-66.80779,NA,Hydrophone,JJ,Limekiln Harbour
+FI-02,45.03454,-66.81226,NA,Hydrophone,JJ,Limekiln Harbour
+FI-03,45.03286,-66.81839,NA,Hydrophone,JJ,Limekiln Harbour
+FI-04B,45.01607,-66.85227,NA,Hydrophone,GG,Fundy Isles
+FI-05B,45.01151,-66.85601,NA,Hydrophone,GG,Fundy Isles
+FI-06B,45.00693,-66.85914,NA,Hydrophone,GG,Fundy Isles
+FI-07B,45.00217,-66.86218,NA,Hydrophone,GG,Fundy Isles
+FI-08B,44.99849,-66.865,NA,Hydrophone,GG,Fundy Isles
+FI-09B,44.99458,-66.86909,NA,Hydrophone,GG,Fundy Isles
+FI-10B,44.98862,-66.87512,NA,Hydrophone,HH,Fundy Isles
+FI-11,44.98466,-66.87786,NA,Hydrophone,HH,Fundy Isles
+FI-12B,44.98077,-66.88108,NA,Hydrophone,HH,Fundy Isles
+FI-13B,44.97608,-66.88425,NA,Hydrophone,HH,Fundy Isles
+FI-14B,44.97197,-66.88815,NA,Hydrophone,HH,Fundy Isles
+FI-15B,44.96746,-66.89123,NA,Hydrophone,HH,Fundy Isles
+FI-16B,44.9634,-66.89439,NA,Hydrophone,HH,Fundy Isles
+FI-17B,44.95955,-66.89746,NA,Hydrophone,HH,Fundy Isles
+HHP-01,44.9642,-66.95436,NA,Hydrophone,W,Head Harbour Passage
+HHP-02,44.96127,-66.94888,NA,Hydrophone,W,Head Harbour Passage
+HHP-03,44.96049,-66.94366,NA,Hydrophone,W,Head Harbour Passage
+HHP-04,44.95628,-66.93891,NA,Hydrophone,W,Head Harbour Passage
+HHP-06,44.95093,-66.92309,NA,Hydrophone,W,Head Harbour Passage
+HW-01,45.02365,-66.86737,Eagle Island,Hydrophone,FF,Limekiln Harbour
+HW-02,44.91311,-66.88821,Ship Head,Hydrophone,MM,Nancy Rock
+HW-03,44.97745,-66.71253,Paul's Cove,Hydrophone,VV,The Wolves
+HW-04,44.96708,-66.71152,Southern Cove,Hydrophone,VVV,The Wolves
+HW-05,44.77796,-66.82214,Money Cove,Hydrophone,OO,Grand Manan
+HW-06,44.778471,-66.750132,Jubilee,Hydrophone,PP,Grand Manan
+LLP-I-02,45.03934,-66.94204,NA,Hydrophone,P,Little L'etete Passage
+LN-01,44.86383,-66.98161,NA,Hydrophone,S,Lubec Narrows
+LR-01,45.14002,-66.49302,NA,Hydrophone,BBB,Lepreau River
+LR-02,45.15033,-66.48711,NA,Hydrophone,BBB.1,Lepreau River
+MF-0002-01,44.72077,-66.72543,Farmer's Ledge,Hydrophone,RR,Grand Manan
+MF-0012-01,45.06603,-66.73428,Drew's Cove,Hydrophone,WW,Beaver Harbour
+MF-0016-01,45.06084,-66.81453,Grand Manan,Hydrophone,KK,Limekiln Harbour
+MF-0020-01,45.06132,-66.83128,Limekiln - Jail Island,Hydrophone,KK,Limekiln Harbour
+MF-0022-01,45.0546,-66.82789,Birch Cove,Hydrophone,KK,Limekiln Harbour
+MF-0026-01,45.04142,-66.82473,Hill's Island,Hydrophone,II,Limekiln Harbour
+MF-0037-01,45.04121,-66.8736,Crow Island,Hydrophone,EE,Limekiln Harbour
+MF-0044-01,44.99907,-66.91082,Simpson's,Hydrophone,AA,Fundy Isles
+MF-0045-01,45.0056,-66.92676,Boone Cove,Hydrophone,Z,Fundy Isles
+MF-0046-01,45.00027,-66.94474,Lord's Cove,Hydrophone,Y,Fundy Isles
+MF-0051-01,44.9353,-66.98185,Doctor's Cove,Hydrophone,R,Head Harbour Passage
+MF-0052-01,44.92372,-66.93832,Curry Cove,Hydrophone,U,Head Harbour Passage
+MF-0053-01,44.91842,-66.93261,HDL - Otter Cove,Hydrophone,U,Head Harbour Passage
+MF-0055-01,44.88582,-66.95996,Friar's Bay,Hydrophone,T,Friar's Bay
+MF-0059-01,44.96558,-67.01284,Fairhaven,Hydrophone,A,Fairhaven
+MF-0059-02,44.96293,-67.01199,Fairhaven,Hydrophone,A,Fairhaven
+MF-0059-03,44.96409,-67.01526,Fairhaven,Hydrophone,A,Fairhaven
+MF-0059-04,44.966,-67.01411,Fairhaven,Hydrophone,A,Fairhaven
+MF-0059-05,44.96506,-67.01061,Fairhaven,Hydrophone,A,Fairhaven
+MF-0059-06,44.96452,-67.01315,Fairhaven,Hydrophone,A,Fairhaven
+MF-0059-07,44.96227,-67.01401,Fairhaven,Hydrophone,A,Fairhaven
+MF-0172-01,44.66705,-66.72018,Ross Island,Hydrophone,UU,Grand Manan
+MF-0186-01,44.95491,-66.90282,Eagle Eye - Head Harbour,Hydrophone,HH,Fundy Isles
+MF-0206-01,44.94584,-66.90365,Cub's Point,Hydrophone,LL,Fundy Isles
+MF-0213-01,44.73441,-66.7317,Long Island,Hydrophone,QQ,Grand Manan
+MF-0222-01,45.0141,-66.98019,Quoddy,Hydrophone,F,Passamaquoddy Bay
+MF-0228-01,45.0175,-66.9736,Davidson's Head,Hydrophone,F,Passamaquoddy Bay
+MF-0276-01,45.03017,-66.86753,Charlie Cove,Hydrophone,FF,Limekiln Harbour
+MF-0282-01,44.68833,-66.71373,Nantucket,Hydrophone,TT,Grand Manan
+MF-0298-01,44.68194,-66.70071,Great Duck,Hydrophone,TT,Grand Manan
+MF-0300-01,44.67606,-66.70972,Andy's Ledge,Hydrophone,TT,Grand Manan
+MF-0349-01,44.71785,-66.73183,Bancroft Point,Hydrophone,RR,Grand Manan
+MF-0350-01,44.72078,-66.7197,?,Hydrophone,RR,Grand Manan
+MF-0368-01,44.73012,-66.73825,Dutch Ledge,Hydrophone,QQ,Grand Manan
+MF-0377-01,45.03045,-67.00638,St. Andrews,Hydrophone,F,Passamaquoddy Bay
+MF-0400-01,45.08121,-66.64347,Seeley's Cove,Hydrophone,XX,Maces Bay
+MF-0412-01,45.10276,-66.57781,Red Head,Hydrophone,ZZ,Maces Bay
+MF-0507-01,45.09194,-66.61289,Penn Island,Hydrophone,YY,Maces Bay
+MR-B-01B,45.12651,-66.82368,NA,Hydrophone,N1,Magaguadavic River
+MR-O-01B,45.10976,-66.89475,NA,Hydrophone,N,Magaguadavic River
+MR-O-01C,45.11438,-66.90001,NA,Hydrophone,N,Magaguadavic River
+MR-O-02B,45.11583,-66.90104,NA,Hydrophone,N,Magaguadavic River
+NH-01,44.98255,-67.00909,NA,Hydrophone,D,Passamaquoddy Bay
+NWH-01,44.98569,-66.951344,NA,Hydrophone,X,Head Harbour Passage
+QN-01,44.81921,-66.94785,NA,Hydrophone,NN,Quoddy Narrows
+QN-02,44.82244,-66.9431,NA,Hydrophone,NN,Quoddy Narrows
+QN-03,44.8259,-66.93818,NA,Hydrophone,NN,Quoddy Narrows
+QN-04,44.82922,-66.93343,NA,Hydrophone,NN,Quoddy Narrows
+SAH-01,45.07151,-67.06287,NA,Hydrophone,H,Passamaquoddy Bay
+SAH-02,45.06914,-67.04938,NA,Hydrophone,H,Passamaquoddy Bay
+SCR-B-01B,45.1914,-67.27421,NA,Hydrophone,G6,Saint Croix River
+SCR-I-01,45.17161,-67.24128,NA,Hydrophone,G4,Saint Croix River
+SCR-I-01B,45.1736,-67.24353,NA,Hydrophone,G4,Saint Croix River
+SCR-M-01,45.16429,-67.16446,NA,Hydrophone,G2,Saint Croix River
+SCR-M-02,45.12332,-67.1344,NA,Hydrophone,G1,Saint Croix River
+SCR-O-01,45.07793,-67.10369,NA,Hydrophone,G,Saint Croix River
+SCR-O-02,45.07891,-67.09892,NA,Hydrophone,G,Saint Croix River
+SCR-O-03,45.07935,-67.09274,NA,Hydrophone,G,Saint Croix River
+SCR-O-04,45.08026,-67.0872,NA,Hydrophone,G,Saint Croix River
+SHO-01,45.03205,-66.91198,NA,Hydrophone,DD,Fundy Isles
+SHO-02,45.00162,-66.90353,NA,Hydrophone,AA,Fundy Isles
+SHO-04,44.96298,-66.92021,NA,Hydrophone,W,Head Harbour Passage
+SHO-05,44.95887,-66.92742,NA,Hydrophone,W,Head Harbour Passage
+SHO-06,45.02195,-66.92268,NA,Hydrophone,CC,Fundy Isles
+SHO-07,45.01132,-66.90241,NA,Hydrophone,BB,Fundy Isles
+SHO-08,44.947481,-66.950463,NA,Hydrophone,V,Head Harbour Passage
+TS-01,45.066117,-67.012217,NA,Hydrophone,K,Passamaquoddy Bay
+WBAT-01,45.01597,-66.98015,NA,Hydrophone,F,Passamaquoddy Bay
+WP-I-01,44.97855,-67.04841,NA,Hydrophone,B,InnerWP
+WP-I-02,44.97804,-67.04251,NA,Hydrophone,B,InnerWP
+WP-I-03B,44.97734,-67.03645,NA,Hydrophone,B,InnerWP
+WP-I-04,44.97657,-67.03006,NA,Hydrophone,B,InnerWP
+WP-I-05,44.9757,-67.02396,NA,Hydrophone,B,InnerWP
+WP-O-01B,44.94534,-67.03072,NA,Hydrophone,C,OuterW_P
+WP-O-02B,44.94864,-67.02548,NA,Hydrophone,C,OuterW_P
+WP-O-03B,44.95166,-67.02068,NA,Hydrophone,C,OuterW_P
+WP-O-04B,44.95477,-67.01598,NA,Hydrophone,C,OuterW_P
+WR-01,45.17915,-67.14488,NA,Hydrophone,G3,Saint Croix River
+WR-02,45.18701,-67.14494,NA,Hydrophone,G3,Saint Croix River
+WR-O1B,45.18403,-67.14455,NA,Hydrophone,G3,Saint Croix River
